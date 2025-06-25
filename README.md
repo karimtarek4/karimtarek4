@@ -10,7 +10,7 @@ I'm **Karim Tarek**, a Data Analytics Engineer specializing in BI modeling, orch
 ---
 
 - 🔭 **I’m currently working on:**  
-  *  Building and owning the analytics platform at [Treyd](https://treyd.com) (B2B fintech)—designing scalable dbt models, orchestrated data workflows, and actionable BI dashboards.
+  *  Building and owning the analytics platform at [Treyd](https://treyd.io) (B2B fintech)—designing scalable dbt models, orchestrated data workflows, and actionable BI dashboards.
   *  Outside of work, I’m focused on constructing a solid portfolio of end-to-end analytics projects and open to freelance/consulting collaborations in data engineering.
 
 - 🌱 **I’m currently learning:**  
