@@ -2,6 +2,7 @@
 
 I'm **Karim Tarek**, a Data Analytics Engineer specializing in BI modeling, orchestration, and building robust data platforms that turn business data into actionable insights.
 
+
 <!--
 **karimtarek4/karimtarek4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,6 +21,21 @@ I'm **Karim Tarek**, a Data Analytics Engineer specializing in BI modeling, orch
 
 - 📫 **How to reach me:**  
   [LinkedIn](https://linkedin.com/in/kareem-tarek) | er.kareem.tarek@gmail.com
+
+  
+- 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <!-- dbt icon (custom PNG, as SVG isn't standard in Devicon) -->
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a>
+  <!-- Metabase icon (official PNG logo, as SVG isn't standard in Devicon) -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+</p>
 
 - 😄 **Pronouns:**  
   He/Him
