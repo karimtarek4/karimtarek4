@@ -10,11 +10,11 @@ I'm **Karim Tarek**, a Data Analytics Engineer specializing in BI modeling, orch
 ---
 
 - 🔭 **I’m currently working on:**  
-  Building and owning the analytics platform at [Treyd](https://treyd.com) (B2B fintech)—designing scalable dbt models, orchestrated data workflows, and actionable BI dashboards.  
-  Outside of work, I’m focused on constructing a solid portfolio of end-to-end analytics projects and open to freelance/consulting collaborations in data engineering.
+  *  Building and owning the analytics platform at [Treyd](https://treyd.com) (B2B fintech)—designing scalable dbt models, orchestrated data workflows, and actionable BI dashboards.
+  *  Outside of work, I’m focused on constructing a solid portfolio of end-to-end analytics projects and open to freelance/consulting collaborations in data engineering.
 
 - 🌱 **I’m currently learning:**  
-  Kafka, Kubernetes, MPP data systems, and integrating LLMs into analytics stacks.
+  Kafka, Kubernetes, Spark and integrating LLMs into analytics stacks.
 
 - 👯 **I’m looking to collaborate on:**  
   Analytics engineering projects, BI automation, dbt/cloud warehousing, open-source data tooling, data pipelines, A/B testing, and building modern analytics platforms.
@@ -24,16 +24,15 @@ I'm **Karim Tarek**, a Data Analytics Engineer specializing in BI modeling, orch
 
   
 - 🛠️ Languages & Tools
-
-<p align="left">
+&nbsp;
+<p align="left" style="margin-left: 50px;>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.sql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <!-- dbt icon (custom PNG, as SVG isn't standard in Devicon) -->
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a>
-  <!-- Metabase icon (official PNG logo, as SVG isn't standard in Devicon) -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
